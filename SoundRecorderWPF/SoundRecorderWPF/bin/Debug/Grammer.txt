@@ -1,0 +1,112 @@
+--p edit
+How to edit file in perforce
+How to checkout file from perforce
+How to open a file to edit
+How to open a file to make changes
+How to open a file for modification
+I want to modify a file in perforce
+how to modify a file in perforce
+How does editing a file in perforce works
+how to open a file for edit in perforce
+How to make changes file to a file in perforce
+How to add my changes in perforce
+
+--P Submit
+How to submit changes to perforce
+How to commit a change in perforce
+How to add my changes yto perfore depot
+How to checkin into perforce
+How to checkin my changes to perforce
+How to commit my code to perforce
+How to commit a changelist to perforce
+How to make my changes to go into perforce
+What is submit in perforce
+Tell me about perforce submit
+
+--P sync
+How to make sure i have latest files
+How can i have files upto date
+How can i sync files from perforce
+How to get files from perforce
+How to fetch a particular file from perforce
+How to get a particular file from perforce
+How to sync files locally on my system
+How to get code from perforce to local machine
+How to remove a file locally
+How to delete a file locally
+
+--P creview
+How to submit code for review
+How to get my code reviewed
+How to get my code checked for error
+How to send my code for check before submitting
+How to send a file for review
+How to submit a changelist for review
+How to submit a file for review
+code review
+Tell me about codereview
+I want to submit file for review
+I want to submit file for code review
+Tell me about creview in perforce
+
+--P add
+How to add a new file into perforce
+How to add a new folder in perforce
+Add a new file in perforce
+Add a new file in team branch
+Create a new file in perforce
+Create a new folder in perforce
+Creating a new file in perforce
+Open files within the client workspace for addition to the depot
+Add a file to workspace from client view
+How to add a marked for delete file back to perforce
+Tell me about perforce add
+
+--P shelve
+How to Store files from a pending changelist in the depot, without submitting them. 
+How to temporarily storing work in progress in the Perforce versioning service without submitting a changelist
+How to temporarily store work without submitting
+How to temporarily store work in perforce
+How to send my code to another developer without submitting in perforce
+How to store code in perforce without submitting
+How to save my work in perforce without submitting my code
+How to Force the overwriting of any existing shelved files in a pending changelist with the contents of their client workspace copies.
+How to forcefully overwrite a shelved file in perforce
+How to shelve a file in perforce
+Tell me about perforce shelve
+Tell me about shelving process
+
+--P revert
+How to revert file in perforce
+Tell me about revert in perforce
+How to discard changes made to a open file
+How to remove changes made to a open file 
+How to delete changes made to a open file
+How to revert unchanged files 
+How to revert a specfific changelist
+How to check list of files to be reverted
+How to delete file from a changelist
+How to revert a file from a changelist
+
+--P pull
+Pull everything needing merged from parent stream to current stream
+update everything needing merged from parent stream to current stream
+How to get files not present in team bnanch which are shared from parent
+Tell me about p pull
+
+--P share
+How to update the share definitions for your stream, expanding what is shared between your stream and its parent.
+How to get a file in my team branch
+How to fetch a file from patent to my team brnach
+Change a file in my team branch which is present in parent branch 
+Tell me about p share
+How does p share works
+How to edit a file in my team branch which is present in parent 
+
+--P push
+Push everything needing merged from current stream to parent stream 
+Update everything needing merged from current stream to parent stream 
+Tell me about p push
+How p push works
+How to post my changes in team branch to parent branch
+Merge my changes from current team brnach to parent stream'

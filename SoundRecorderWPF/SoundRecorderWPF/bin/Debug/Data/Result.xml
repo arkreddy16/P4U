@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<root>
+  <command name="p edit">
+    Looks like you are searching for "p edit" command
+    
+    Description:- 
+    Opens file(s) in a client workspace for edit
+    
+    For more details please type "p help edit"
+  </command>
+  <command name="p submit">
+    Looks like you are searching for "p submit" command
+
+    Description:-
+    Commit a pending changelist and the files it contains to the depot
+    
+    For more details please type "p help submit"
+  </command>
+  <command name="p sync">
+    Looks like you are searching for "p sync" command.
+
+    Description:-
+    Update the client workspace to reflect the contents of the depot
+    
+    For more details please type "p help sync"
+  </command>
+  <command name="p creview">Looks like you are searching for "p creview" command
+
+    Description:-
+    Create a new code review for the specified changelist, or re-upload the specified changelist to an existing review
+    
+    For more details please type "p help creview"
+  </command>
+  <command name="p add">
+    Looks like you are searching for "p add" command
+
+    Description:-
+    Open a new file to add it to the depot
+    
+    For more details please type "p help add"
+  </command>
+  <command name="p shelve">
+    Looks like you are searching for "p shelve" command.
+
+    Description:-
+    Store files from a pending changelist into the depot
+    
+    For more details please type "p help shelve"
+  </command>
+  <command name="p revert">
+    Looks like you are searching for "p revert" command
+
+    Description:-
+    Discard changes from an opened file
+    
+    For more details please type "p help revert"
+  </command>
+  <command name="p pull">
+    Looks like you are searching for "p pull" command
+
+    Description:-
+    Pull (update) everything needing merged from parent stream to current stream using provided perforce file arguments
+    
+    For more details please type "p help pull"
+  </command>
+  <command name="p share">
+    Looks like you are searching for "p share" command.
+
+    Description:-
+    Update the share definitions for your stream, expanding what is shared between your stream and its parent
+    
+    For more details please type "p help share"
+  </command>
+  <command name="p push">
+    Looks like you are searching for "p push" command.
+
+    Description:-
+    Push (update) everything needing merged from current stream to parent stream using provided perforce file arguments
+    
+    For more details please type "p help push"
+  </command>
+</root>
+
+

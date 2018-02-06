@@ -1,0 +1,93 @@
+How to edit file in perforce,0,p edit
+How to checkout file from perforce,0,p edit
+How to open a file to edit,0,p edit
+How to open a file to make changes,0,p edit
+How to open a file for modification,0,p edit
+I want to modify a file in perforce,0,p edit
+how to modify a file in perforce,0,p edit
+How does editing a file in perforce works,0,p edit
+how to open a file for edit in perforce,0,p edit
+How to make changes file to a file in perforce,0,p edit
+How to add my changes in perforce,0,p edit
+How to sumit changes to perforce,1,P Submit
+How to commit a change in perforce,1,P Submit
+How to add my changes yto perfore depot,1,P Submit
+How to checkin into perforce,1,P Submit
+How to checkin my changes to perforce,1,P Submit
+How to commit my code to perforce,1,P Submit
+How to commit a changelist to perforce,1,P Submit
+How to make my changes to go into perforce,1,P Submit
+What is subit in perforce,1,P Submit
+Tell me about perforce submit,1,P Submit
+How to make sure i have latest files,2,p sync
+How can i have files upto date,2,p sync
+How can i sync files from perforce,2,p sync
+How to get files from perforce,2,p sync
+How to fetch a particular file from perforce,2,p sync
+How to get a particular file from perforce,2,p sync
+How to sync files locally on my system,2,p sync
+How to get code from perforce to local machine,2,p sync
+How to remove a file locally,2,p sync
+How to delete a file locally,2,p sync
+How to submit code for review,3,p creview
+How to get my code reviewed,3,p creview
+How to get my code checked for error,3,p creview
+How to send my code for check before submitting,3,p creview
+How to send a file for review,3,p creview
+How to submit a changelist for review,3,p creview
+How to submit a file for review,3,p creview
+code review,3,p creview
+Tell me about codereview,3,p creview
+I want to submit file for review,3,p creview
+I want to submit file for code review,3,p creview
+Tell me about creview in perforce,3,p creview
+How to add a new file into perforce,4,p add
+How to add a new folder in perforce,4,p add
+Add a new file in perforce,4,p add
+Add a new file in team branch,4,p add
+Create a new file in perforce,4,p add
+Create a new folder in perforce,4,p add
+Creating a new file in perforce,4,p add
+Open files within the client workspace for addition to the depot,4,p add
+Add a file to workspace from client view,4,p add
+How to add a marked for delete file back to perforce,4,p add
+Tell me about perforce add,4,p add
+"How to Store files from a pending changelist in the depot, without submitting them. ",5,p shelve
+How to temporarily storing work in progress in the Perforce versioning service without submitting a changelist,5,p shelve
+How to temporarily store work without submitting,5,p shelve
+How to temporarily store work in perforce,5,p shelve
+How to send my code to another developer without submitting in perforce,5,p shelve
+How to store code in perforce without submitting,5,p shelve
+How to save my work in perforce without submitting my code,5,p shelve
+How to Force the overwriting of any existing shelved files in a pending changelist with the contents of their client workspace copies.,5,p shelve
+How to forcefully overwrite a shelved file in perforce,5,p shelve
+How to shelve a file in perforce,5,p shelve
+Tell me about perforce shelve,5,p shelve
+Tell me about shelving process,5,p shelve
+How to revert file in perforce,6,p revert
+Tell me about revert in perforce,6,p revert
+How to discard changes made to a open file,6,p revert
+How to remove changes made to a open file ,6,p revert
+How to delete changes made to a open file,6,p revert
+How to revert unchanged files ,6,p revert
+How to revert a specfific changelist,6,p revert
+How to check list of files to be reverted,6,p revert
+How to delete file from a changelist,6,p revert
+How to revert a file from a changelist,6,p revert
+Pull everything needing merged from parent stream to current stream,7,p pull
+update everything needing merged from parent stream to current stream,7,p pull
+How to get files not present in team bnanch which are shared from parent,7,p pull
+Tell me about p pull,7,p pull
+"How to update the share definitions for your stream, expanding what is shared between your stream and its parent.",8,p share
+How to get a file in my team branch,8,p share
+How to fetch a file from patent to my team brnach,8,p share
+Change a file in my team branch which is present in parent branch ,8,p share
+Tell me about p share,8,p share
+How does p share works,8,p share
+How to edit a file in my team branch which is present in parent ,8,p share
+Push everything needing merged from current stream to parent stream ,9,p push
+Update everything needing merged from current stream to parent stream ,9,p push
+Tell me about p push,9,p push
+How p push works,9,p push
+How to post my changes in team branch to parent branch,9,p push
+Merge my changes from current team brnach to parent stream',9,p push

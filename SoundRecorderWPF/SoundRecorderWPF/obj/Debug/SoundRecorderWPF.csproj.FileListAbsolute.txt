@@ -1,0 +1,36 @@
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\SoundRecorderWPF.exe.config
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\SoundRecorderWPF.exe
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\SoundRecorderWPF.pdb
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.csprojResolveAssemblyReference.cache
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\MainWindow.baml
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\MainWindow.g.cs
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\App.g.cs
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF_MarkupCompile.cache
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.g.resources
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.Properties.Resources.resources
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.csproj.GenerateResource.Cache
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.exe
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.pdb
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\NAudio.dll
+D:\tu\Курс 3\semestar4\Proekt po PS\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\NAudio.xml
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\SoundRecorderWPF.exe.config
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.exe
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.pdb
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\SoundRecorderWPF.exe
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\SoundRecorderWPF.pdb
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\NAudio.dll
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\NAudio.xml
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.csprojResolveAssemblyReference.cache
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\MainWindow.baml
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\MainWindow.g.cs
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\App.g.cs
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF_MarkupCompile.cache
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.g.resources
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.csproj.GenerateResource.Cache
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\VoiceRecorder.g.cs
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF_MarkupCompile.lref
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\VoiceRecorder.baml
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\Scripts\train_test_nb_svm.py
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\bin\Debug\Scripts\trainData.csv
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF_Content.g.cs
+C:\Users\Anugula.Reddy\Downloads\audioRecorder-master\audioRecorder-master\SoundRecorderWPF\SoundRecorderWPF\obj\Debug\SoundRecorderWPF.Resources.resources

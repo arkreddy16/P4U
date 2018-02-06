@@ -1,0 +1,34 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:Forms="clr-namespace:System.Windows.Forms;assembly=System.Windows.Forms" x:Class="SoundRecorderWPF.MainWindow"
+        Title="MainWindow" Height="409" Width="601"
+    Icon="icon.ico">
+    <Grid>
+        <Button x:Name="btnOpen" Content="Open File" HorizontalAlignment="Left" Margin="33,334,0,0" VerticalAlignment="Top" Width="75" Click="btnOpen_Click"/>
+        <Button x:Name="btnPausePlay" Content="Pause/Play" HorizontalAlignment="Left" Margin="123,334,0,0" VerticalAlignment="Top" Width="75" IsEnabled="False" Click="btnPausePlay_Click"/>
+        <ListView x:Name="sourceList" HorizontalAlignment="Left" Height="80" Margin="33,225,0,0" VerticalAlignment="Top" Width="276" SelectionMode="Single">
+            <ListView.View>
+                <GridView>
+                    <GridViewColumn Width="270" Header="Devices"/>
+                </GridView>
+            </ListView.View>
+        </ListView>
+        <Button x:Name="btnRefresh" Content="Refresh Sources" HorizontalAlignment="Left" Margin="212,334,0,0" VerticalAlignment="Top" Width="97" Click="btnRefresh_Click"/>
+        <Button x:Name="btnRecord" Content="Record" HorizontalAlignment="Left" Margin="336,334,0,0" VerticalAlignment="Top" Width="75" Click="btnRecord_Click"/>
+        <Button x:Name="btnStop" Content="Stop" HorizontalAlignment="Left" Margin="445,334,0,0" VerticalAlignment="Top" Width="75" Click="btnStop_Click"/>
+        <TextBox x:Name="txtBox" HorizontalAlignment="Left" Height="27" Margin="336,278,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="184" RenderTransformOrigin="0.486,0.491"/>
+        <Label Name="lblClockTime" FontSize="60" HorizontalAlignment="Center" VerticalAlignment="Center" />
+        <Slider x:Name="VolumeSl" HorizontalAlignment="Left" Margin="338,247,0,0" VerticalAlignment="Top" Height="27" RenderTransformOrigin="0.5,0.5" Width="182" ValueChanged="VolumeSl_ValueChanged" IsDirectionReversed="True" Maximum="1" Minimum="0.1" TickFrequency="0.1">
+            <Slider.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform ScaleX="-1"/>
+                    <SkewTransform/>
+                    <RotateTransform/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </Slider.RenderTransform>
+        </Slider>
+        <Label Content="Volume" HorizontalContentAlignment="Center" HorizontalAlignment="Left" Margin="336,223,0,0" VerticalAlignment="Top" Width="184" FontFamily="Times New Roman"/>
+    </Grid>
+</Window>

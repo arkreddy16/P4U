@@ -1,0 +1,8 @@
+﻿<Application x:Class="SoundRecorderWPF.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             StartupUri="VoiceRecorder.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
